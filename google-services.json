@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352485224488",
+    "project_id": "companionmoto-8e09f",
+    "storage_bucket": "companionmoto-8e09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352485224488:android:9b0905f1afc0ab8adb051d",
+        "android_client_info": {
+          "package_name": "com.mxnanzzz.companionv3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOLFWb-s3nne_6x2rRL9yxjojeLi-oxio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

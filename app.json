@@ -19,13 +19,20 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": { 
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mxnanzzz.companionv3"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "999d72b1-f773-4ab4-b9c2-9f1ea7a9cb6b"
+      }
     }
   }
 }
