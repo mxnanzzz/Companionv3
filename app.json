@@ -4,6 +4,7 @@
     "slug": "companionv3",
     "version": "1.0.0",
     "orientation": "portrait",
+    "plugins": ["@react-native-firebase/app", "@react-native-firebase/auth"],
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
